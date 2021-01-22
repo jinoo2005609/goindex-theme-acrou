@@ -15,7 +15,7 @@ export default {
   },
   data: function() {
     return {
-      github: "https://github.com/Aicirou/goindex-theme-acrou",
+      github: "https://github.com/jinoo2005609/goindex-theme-acrou",
     };
   },
   watch: {
