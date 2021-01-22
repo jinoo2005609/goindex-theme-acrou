@@ -1,6 +1,6 @@
 // =======Options START=======
 var authConfig = {
-  siteName: "GoIndex-theme-acrou", // 网站名称
+  siteName: "Google Drive [esherloon.ga]", // 网站名称
   version: "1.1.2", // 程序版本
   theme: "acrou",
   // 强烈推荐使用自己的 client_id 和 client_secret
