@@ -117,7 +117,7 @@ audio: {
 
 ## Change log
 
-### v2.0.8
+### master
 
 - Fix image file actions does not work [#100](https://github.com/Aicirou/goindex-theme-acrou/issues/100)
 - Fix misjudged file to image format [#88](https://github.com/Aicirou/goindex-theme-acrou/issues/88)
@@ -134,41 +134,7 @@ audio: {
 - CLI Delete prefetch preload of lazy load module
 - Delete fontawesome5
 
-### v2.0.5
-
-- Add clean file cache
-- Support for custom video player (API)
-- Beautify: the grid mode file shows icon when no preview is shown
-- Beautify: Adjust the HEAD.md render position
-- Solve the problem that files that can't be previewed can't be downloaded directly by clicking [#30](https://github.com/Aicirou/goindex-theme-acrou/issues/30)
-- Solve the problem that the file name cannot be opened [#20](https://github.com/Aicirou/goindex-theme-acrou/issues/20)
-- Solve the problem that switching pages will fall back in the current page loading [#37](https://github.com/Aicirou/goindex-theme-acrou/issues/37) (Thanks [@PedroZhang](https://github.com/PedroZhang) Help to find out the cause of the problem)
-
-### v2.0.0
-
-- Program changed to SPA(single page application)
-- Add page level cache(Browser forward and backward do not refresh seconds to load, and Mac users have a better experience of using touch pad)
-- Add http basic auth(Each drive letter can be configured with a user name and password separately, which can protect all sub files and sub folders under the drive)
-- Add  grid view mode(File preview)
-- Add paging load
-- Add  i18n
-- Add html render 
-- Add render folder/file description
-- Add optional configuration
-- Support quick deployment
-- Support PDF Online preview
-- Replace text editor
-- Solve the problem of URL encoding [#20](https://github.com/Aicirou/goindex-theme-acrou/issues/20) [#23](https://github.com/Aicirou/goindex-theme-acrou/issues/23) [#25](https://github.com/Aicirou/goindex-theme-acrou/issues/25)
-- Solve other known problems
-
-### v1.x
-
-- Support multi disk switching
-- Add version detection
-- Optimize search results
-- Optimize page display
-
-## Lisense
+## License
 
 [MIT](LICENSE)
 
