@@ -7,7 +7,7 @@ Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and
 
 This theme's goindex is currently based on [yanzai/goindex](https://github.com/yanzai/goindex/)
 
-[README](README.md) | [中文文档](README_zh.md)
+[README](README.md)
 
 ## Demo  
 
@@ -32,25 +32,13 @@ Acrou: [https://oss.achirou.workers.dev/](https://oss.achirou.workers.dev/)
 - [ ] More file format preview
 - [ ] Let goindex be more than just a directory index
 
-## Quick Deployment
-
-1. Open any of the following links
-
-   - https://install.achirou.workers.dev
-   - https://goindex-quick-install.glitch.me
-   - https://goindex-install.herokuapp.com
-
-2. Auth and get the code  
-
-3. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
-
 ## Deployment  
 
 1. Open [Google Drive API](https://console.developers.google.com/apis/api/drive.googleapis.com/overview)
 2. Create a [OAuth client ID](https://console.developers.google.com/apis/credentials/oauthclient)
 3. Install [rclone](https://rclone.org/downloads/) software locally
 4. Get `refresh_token ` with `rclone`
-5. Download `index.js` in https://github.com/Aicirou/goindex-theme-acrou/tree/master/go2index and replace `client_id`,`client_secret`,`refresh_token` for what you just got.
+5. Download `index.js` in https://github.com/jinoo2005609/goindex-theme-acrou/tree/master/go2index and replace `client_id`,`client_secret`,`refresh_token` for what you just got.
 6. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
 
 > If you write a good article and want to share it with others, please submit Issues and I will post the link here.
