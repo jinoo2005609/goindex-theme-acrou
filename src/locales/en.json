@@ -1,61 +1,61 @@
 {
-  "_name": "English",
-  "languages": "Languages",
-  "index": "Home",
-  "folder": "Folder",
+  "_name": "한국어",
+  "languages": "언어",
+  "index": "홈",
+  "folder": "폴더",
   "notify": {
-    "title": "Notify"
+    "title": "알림"
   },
   "copy": {
-    "text": "Copy",
-    "success": "Copy successful",
-    "error": "Copy failed"
+    "text": "복사",
+    "success": "복사 성공",
+    "error": "복사 실패"
   },
   "list": {
     "view": {
-      "gridMode": "Grid view",
-      "listMode": "List view"
+      "gridMode": "그리드 뷰",
+      "listMode": "리스트 뷰"
     },
-    "auth": "Directory encryption, please enter password",
+    "auth": "디렉토리 암호화, 비밀번호가 필요합니다.",
     "title": {
-      "file": "File",
-      "moditime": "Modified Time",
-      "size": "Size",
-      "operation": "Actions"
+      "file": "파일",
+      "moditime": "수정한 시간",
+      "size": "크기",
+      "operation": "액션"
     },
-    "loading": "Loading...",
+    "loading": "로딩 중...",
     "opt": {
-      "copy": "Copy link",
-      "newTab": "Open a new tab",
-      "download": "Download"
+      "copy": "링크 복사",
+      "newTab": "새 탭 열기",
+      "download": "다운로드"
     },
-    "total": "Total",
-    "item": "item"
+    "total": "총",
+    "item": "개"
   },
   "search": {
-    "placeholder": "Search resources..."
+    "placeholder": "파일 찾기..."
   },
   "page": {
     "video": {
-      "play": "Play",
-      "download": "Download",
-      "link": "Download link"
+      "play": "재생",
+      "download": "다운로드",
+      "link": "다운로드 링크"
     },
     "text": {
-      "loading": "Loading..."
+      "loading": "로딩 중..."
     }
   },
   "setting": {
     "clear": {
-      "text": "Clean cache",
-      "success": "Cache cleanup successful"
+      "text": "캐시 비우기",
+      "success": "성공적으로 캐시를 비웠습니다."
     }
   },
   "checkVersion": {
-    "tips": "New version detected, <a href='${url}'>Go to GitHub</a>"
+    "tips": "새 버전이 나왔습니다, <a href='${url}'>GitHub로 이동</a>"
   },
   "error": {
-    "shortcut_not_down": "Shortcut can't open/download",
-    "401": "Unauthorized, please login"
+    "shortcut_not_down": "바로가기는 열거나 다운로드할 수 없습니다.",
+    "401": "Unauthorized, 로그인이 필요합니다."
   }
 }
